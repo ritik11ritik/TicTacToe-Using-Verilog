@@ -12,3 +12,6 @@ The player/ computer wins the game when successfully placing three similar (01-X
 The winner detecting circuit is designed to find the winner when the above winning rule is matched. To detect an illegal move, a comparator is needed to check if the current position was already played by either the computer or player. Moreover, “No space” detector is to check if all the positions are played and no winner is found.
 
 To control the Tic Tac Toe game, a FSM controller is designed as follows.
+![screen shot](https://github.com/ritik11ritik/TicTacToe-Using-Verilog/blob/main/State_Diagram.jpg)
+
+The program can be found at https://www.edaplayground.com/x/7CZ_

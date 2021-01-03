@@ -14,4 +14,4 @@ The winner detecting circuit is designed to find the winner when the above winni
 To control the Tic Tac Toe game, a FSM controller is designed as follows.
 ![screen shot](https://github.com/ritik11ritik/TicTacToe-Using-Verilog/blob/main/State_Diagram.jpg)
 
-The program can be found at https://www.edaplayground.com/x/7CZ_
+The program can be found at https://www.edaplayground.com/x/7CZ_ .
